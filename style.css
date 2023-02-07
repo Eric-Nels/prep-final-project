@@ -5,3 +5,27 @@ body {
 h1 {
     color: white;
 }
+
+#rav4 {
+    width: 24vw;
+    height: 250px;
+    padding: auto;
+}
+
+#focus {
+    width: 24vw;
+    height: 250px;
+    padding: auto;
+}
+
+#civic {
+    width: 24vw;
+    height: 250px;
+    padding: auto;
+}
+
+#is200t {
+    width: 24vw;
+    height: 250px;
+    padding: auto;
+}
